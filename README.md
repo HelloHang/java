@@ -14,3 +14,4 @@ java学习路线
 <a href="https://www.infoq.cn/article/dXJ3EYIp*WaHfmVwlMeu" target="_blank">滴滴出行基于 RocketMQ 构建企业级消息队列服务的实践</a><br/>
 <a href="https://juejin.im/post/5af02571f265da0b9e64fcfd" target="_blank">消息队列之 RocketMQ</a><br/>
 <a href="https://juejin.im/post/5af02571f265da0b9e64fcfd" target="_blank">十分钟入门RocketMQ</a><br/>
+<a href="https://mp.weixin.qq.com/s/2rI3kT1CXD_m8QxKBn7T8Q" target="_blank">分布式之消息队列复习精讲</a><br/>
