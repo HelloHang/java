@@ -9,3 +9,8 @@ java学习路线
 
 <a href="https://www.jianshu.com/p/9c9a0057221f" target="_blank">MYSQL调优之索引——索引失效情况 </a><br/>
 <a href="http://www.ligen.pro/2018/02/05/%E4%BD%BF%E7%94%A8%E5%A4%8D%E5%90%88%E7%B4%A2%E5%BC%95%E6%97%B6%E5%87%BA%E7%8E%B0%E7%9A%84%E7%B4%A2%E5%BC%95%E5%A4%B1%E6%95%88/" target="_blank">使用复合索引时出现的索引失效 </a><br/>
+
+
+<a href="https://www.infoq.cn/article/dXJ3EYIp*WaHfmVwlMeu" target="_blank">滴滴出行基于 RocketMQ 构建企业级消息队列服务的实践</a><br/>
+<a href="https://juejin.im/post/5af02571f265da0b9e64fcfd" target="_blank">消息队列之 RocketMQ</a><br/>
+<a href="https://juejin.im/post/5af02571f265da0b9e64fcfd" target="_blank">十分钟入门RocketMQ</a><br/>
