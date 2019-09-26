@@ -15,3 +15,5 @@ java学习路线
 <a href="https://juejin.im/post/5af02571f265da0b9e64fcfd" target="_blank">消息队列之 RocketMQ</a><br/>
 <a href="https://juejin.im/post/5af02571f265da0b9e64fcfd" target="_blank">十分钟入门RocketMQ</a><br/>
 <a href="https://mp.weixin.qq.com/s/2rI3kT1CXD_m8QxKBn7T8Q" target="_blank">分布式之消息队列复习精讲</a><br/>
+
+<a href="https://www.cnblogs.com/wangiqngpei557/p/9381478.html" target="_blank">RabbitMQ 可靠投递</a><br/>
