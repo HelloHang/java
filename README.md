@@ -17,3 +17,5 @@ java学习路线
 <a href="https://mp.weixin.qq.com/s/2rI3kT1CXD_m8QxKBn7T8Q" target="_blank">分布式之消息队列复习精讲</a><br/>
 
 <a href="https://www.cnblogs.com/wangiqngpei557/p/9381478.html" target="_blank">RabbitMQ 可靠投递</a><br/>
+
+<a href="https://zhuanlan.zhihu.com/p/38913026" target="_blank">RabbitMQ vs Kafka</a><br/>
